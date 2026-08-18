@@ -86,6 +86,10 @@ interpreted as evidence of a sustained upward trend.
 
 ### 4. Three conditions showed statistically significant downward trends
 
+I used a significance level of 0.05, which is a commonly used threshold in statistical analysis. 
+It means I required the p-value to be below 0.05 before considering a trend statistically significant.
+In practical terms, this limits the probability of rejecting the null hypothesis when it is actually true to 5%.
+
 The regression analysis identified significant negative linear trends
 for:
 
