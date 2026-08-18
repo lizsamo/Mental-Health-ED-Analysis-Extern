@@ -136,20 +136,13 @@ Mental Health-Related Emergency Department Visit Rates
 
 The raw dataset contained **10,591 rows** and five variables:
 
-  -----------------------------------------------------------------------
-  Variable                            Description
-  ----------------------------------- -----------------------------------
-  `month_end`                         Month of observation
-
-  `condition`                         Mental health condition
-
-  `demographics_type`                 Age, sex, race/ethnicity, or total
-
-  `demographics_values`               Specific demographic group
-
-  `rate_per_100000_visits`            Mental health-related ED visits per
-                                      100,000 ED visits
-  -----------------------------------------------------------------------
+| Variable | Description |
+| --- | --- |
+| `month_end` | Month of observation |
+| `condition` | Mental health condition |
+| `demographics_type` | Age, sex, race/ethnicity, or total |
+| `demographics_values` | Specific demographic group |
+| `rate_per_100000_visits` | Mental health-related ED visits per 100,000 ED visits |
 
 The primary condition-level analysis retained:
 
@@ -279,9 +272,8 @@ Future work could:
 Mental-Health-ED-Analysis/
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
-│
+│   ├── Copy_of_National_Syndoromic..._.csv
+│   
 ├── notebooks/
 │   └── Mental_Health_ED_EDA.ipynb
 │
