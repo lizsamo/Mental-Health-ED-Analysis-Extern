@@ -253,16 +253,14 @@ findings:
 -   The analysis is observational and descriptive and does not establish
     causality.
 
-## Future Analysis
+## Future Analysis Opportunities
 
-Future work could:
+Future work could build on the findings of this analysis by:
 
--   Extend the time series as additional 2026 data become available
--   Evaluate seasonality and nonlinear trends
--   Examine condition-specific patterns within age, sex, and
-    race/ethnicity groups
--   Investigate whether particular demographic populations are driving
-    condition-level changes
+- **Extend the time series** as additional 2026 data become available to determine whether the observed increases in Trauma and Stressor-related Disorders and Anxiety Disorders persist.
+- **Evaluate seasonality and nonlinear trends** to capture patterns that may not be identified through simple linear regression.
+- **Conduct condition-specific demographic analysis** to determine how trends differ across age, sex, and race/ethnicity groups.
+- **Investigate drivers of changing ED utilization** by incorporating additional healthcare or population-level variables that may help explain observed changes.
 
 ## Repository Structure
 
