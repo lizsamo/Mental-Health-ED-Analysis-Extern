@@ -17,7 +17,7 @@ utilization changed from **January 2022 through May 2026**.
 conditions change between January 2022 and May 2026, and which
 conditions exhibited the largest observed changes?**
 
-## Why This Analysis Matters
+## Business & Healthcare Relevance
 
 Emergency departments operate under significant capacity constraints,
 and mental health-related visits can require specialized evaluation,
