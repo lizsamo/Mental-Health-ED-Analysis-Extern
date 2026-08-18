@@ -240,7 +240,7 @@ View a concise presentation of the problem, analytical approach, and
 findings:
 
 **[View
-Presentation](presentation/Mental_Health_ED_Analytics_Presentation.pdf)**
+Presentation](presentation\Mental_Health_ED_Analytics_Presentation(Extern).pptx.pdf)**
 
 ## Limitations
 
