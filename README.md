@@ -211,7 +211,7 @@ Power BI Dashboard & Final Report
 View the complete Python workflow, data preparation, visualizations, and
 statistical analysis:
 
-**[View EDA Notebook](notebooks/Mental_Health_ED_EDA.ipynb)**
+**[View EDA Notebook](notebooks/Mental_Health_ED_EDA(6).ipynb)**
 
 ### 📊 Power BI Dashboard
 
@@ -232,7 +232,7 @@ I developed a Power BI dashboard to summarize the major findings from the analys
 
 Read the complete methodology, findings, limitations, and discussion:
 
-**[View Research Report](reports/Mental_Health_ED_Research_Report.pdf)**
+**[View Research Report](reports\Mental_Health_in_Crisis_Changing_Patterns_in_U.S._Emergency_Departments.docx(4).pdf)**
 
 ### 🎤 Project Presentation
 
