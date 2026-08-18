@@ -232,16 +232,14 @@ I developed a Power BI dashboard to summarize the major findings from the analys
 
 Read the complete methodology, findings, limitations, and discussion:
 
-**[View Research Report](reports\Mental_Health_in_Crisis_Changing_Patterns_in_U.S._Emergency_Departments.docx(4).pdf)**
+**[View Research Report](reports/Mental_Health_in_Crisis_Changing_Patterns_in_U.S._Emergency_Departments.docx(4).pdf)**
 
 ### 🎤 Project Presentation
 
 View a concise presentation of the problem, analytical approach, and
 findings:
 
-**[View
-Presentation](presentation\Mental_Health_ED_Analytics_Presentation(Extern).pptx.pdf)**
-
+**[View Presentation](presentation/Mental_Health_ED_Analytics_Presentation(Extern).pptx.pdf)**
 ## Limitations
 
 -   2026 is incomplete; observations are available only through May
